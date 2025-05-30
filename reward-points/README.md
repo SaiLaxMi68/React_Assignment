@@ -76,4 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
+created mock data in public folder with 15 transactions and used it in util.js to fetch data and created 3 components to display customer data like customer id , transaction id, amount and reward points. along with that written logic to caculates if amount greater than 100 and between 50-100. added pagination to display customers data per page with prev and next buttons. 
+click on one of customer id to see details for tranasactions over period.
